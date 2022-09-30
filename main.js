@@ -8,7 +8,6 @@ let completedToDos = 0;
 
 addBtn.addEventListener("click", addToDo);
 
-//ToDo innehåller ett id, tanken var att varje ToDo
 class ToDo {
     constructor(toDoTitle) {
         this.toDoTitle = toDoTitle;
