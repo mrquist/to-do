@@ -1,0 +1,11 @@
+h1{
+    color:blue;
+}
+
+#completedList{
+    color: red;
+}
+.completed{
+    text-decoration: line-through;
+    color: #888;
+}
